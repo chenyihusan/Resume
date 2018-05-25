@@ -294,7 +294,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .work-item a p {
   font-size: 14px;
-  color: #cccccc;
+  color: #cccccc67;
   margin-bottom: 0;
 }
 .work-item a:hover, .work-item a:active, .work-item a:focus {
